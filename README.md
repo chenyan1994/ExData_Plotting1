@@ -1,3 +1,5 @@
+### My solution to Plotting Assignment 1 for Exploratory Data Analysis
+
 ## Introduction
 
 This assignment uses data from
